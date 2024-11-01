@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-AllAround\n"
+"POT-Creation-Date: 2016-07-28 11:23+0100\n"
+"PO-Revision-Date: 2016-07-28 11:23+0100\n"
+"Last-Translator: Michele \"O-Zone\" Pinassi <o-zone@zerozone.it>\n"
+"Language-Team: Michele Pinassi <o-zone@zerozone.it>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-allaround-admin.php:27
+msgid "Connected !"
+msgstr "Connesso !"
+
+#: ../wp-allaround-admin.php:29
+msgid "Error: "
+msgstr "Errore: "
+
+#: ../wp-allaround-admin.php:89
+msgid "Your AllAround BOT Api Key"
+msgstr "La tua API Key del BOT AllAround"
+
+#: ../wp-allaround-admin.php:93
+msgid "Type here your AllAround BOT Api Key"
+msgstr "Digita qui la chiave del BOT"
+
+#: ../wp-allaround-admin.php:95
+msgid "Default is to publish new articles"
+msgstr "Pubblica tutti i nuovi articoli di default"
+
+#: ../wp-allaround-admin.php:102
+msgid "Submit"
+msgstr "Salva"
+
+#: ../wp-allaround-admin.php:116
+msgid ""
+"Click on the following button to connect this blog and start broadcasting:"
+msgstr ""
+"Clicca sul pulsante sottostante per connettere questo blog ed iniziare le "
+"trasmissioni:"
+
+#: ../wp-allaround-admin.php:117
+msgid "Connect this blog"
+msgstr "Connetti questo blog"
+
+#: ../wp-allaround-admin.php:125
+msgid ""
+"Before you start, please visit <a href='http://www.allaroundsiena."
+"com'>allaroundsiena.com</a> to get an API key for your blog"
+msgstr ""
+"Prima di iniziare, visita <a href='http://www.allaroundsiena."
+"com'>allaroundsiena.com</a> per ottenere la chiave API per questo blog"
+
+#: ../wp-allaround.php:80
+msgid "Publish this post on AllAround"
+msgstr "Pubblica questo articolo su AllAround"
+
+#: ../wp-allaround.php:230
+msgid "Post published successfully on your BOT !"
+msgstr "Articolo pubblicato con successo !"
+
+#: ../wp-allaround.php:238
+msgid ""
+"Ooops ! Something wrong happens while publish your post on AllAround BOT: "
+"try again in few minutes"
+msgstr ""
+"Ooops ! E' successo qualcosa di sbagliato nella pubblicazione del tuo post "
+"su AllAround BOT: prova ancora tra qualche minuto...."
